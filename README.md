@@ -1,10 +1,10 @@
 # Seattle_Airbnb_Analysis
 
 ## Table of content
-* [Overview](#section-2)
-* [Project Motivation](#section-3)
-* [Files used](#section-4)
-* [Results](#section-5)
+* [#Overview](#section-2)
+* [#Project Motivation](#section-3)
+* [#Files used](#section-4)
+* [#Results](#section-5)
 * [Licensing for the data and other descriptive information](#section-6)
 
 ## Overview
