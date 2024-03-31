@@ -2,10 +2,10 @@
 
 ## Table of content
 * [Overview](#Overview)
-* [Project Motivation](#section-2)
-* [Files used](#section-3)
-* [Results](#section-4)
-* [Licensing for the data and other descriptive information](#section-5)
+* [Project Motivation](#Project Motivation)
+* [Files used](#Files used)
+* [Results](#Results)
+* [Licensing for the data and other descriptive information](#Licensing for the data and other descriptive information)
 
 ## Overview
 
