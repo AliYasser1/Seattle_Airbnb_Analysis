@@ -3,9 +3,9 @@
 ## Table of content
 * [Overview](#section-1)
 * [Project Motivation](#section-2)
-* [Files used](#section-4)
-* [Results](#section-5)
-* [Licensing for the data and other descriptive information](#section-6)
+* [Files used](#section-3)
+* [Results](#section-4)
+* [Licensing for the data and other descriptive information](#section-5)
 
 ## Overview
 
@@ -25,7 +25,7 @@ By analyzing this dataset, I aim to uncover patterns, trends, and insights that 
 
 For this analysis I used two files. The first being an excel sheet that had all the data needed about the listings which I used to answer the first 2 question of the analysis. The second being another excel sheet that contained the dates and whether or not a listing is available for booking at each specific date.
 
-## Results.
+## Results
 
 To more about the findings, check my blog post on Medium here
 To get a glimpse of the code I deeveloped to come up with my finding click here
