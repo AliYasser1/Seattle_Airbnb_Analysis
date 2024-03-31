@@ -3,9 +3,9 @@
 ## Table of content
 * [Overview](#Overview)
 * [Project Motivation](#project-motivation)
-* [Files used](#Files used)
+* [Files used](#files-used)
 * [Results](#Results)
-* [Licensing for the data and other descriptive information](#Licensing for the data and other descriptive information)
+* [Licensing for the data and other descriptive information](#licensing-authors-acknowledgements)
 
 ## Overview
 
