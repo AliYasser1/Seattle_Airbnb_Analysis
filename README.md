@@ -6,3 +6,6 @@ Here are some of the questions that came to my mind while exploring the data:
  1. What is the average price of Airbnb listings in Seattle?
  2. What are the most common types of property listed on Airbnb in Seattle (e.g., apartments, houses, etc.)?
  3. can we predict the price of a property based on the property features (Bedrooms, Bathrooms,...etc)?
+
+## Table of content
+* [Section 1](#overview)
