@@ -3,11 +3,11 @@
 ## Table of content
 * [Overview](#section-2)
 * [Project Motivation](#section-3)
-* [## Files used](#section-4)
+* [Files used](#section-4)
 * [Results](#section-5)
 * [Licensing for the data and other descriptive information](#section-6)
 
-## Overview
+# Overview
 
 The following analysis is done on the Seattle Airbnb dataset. To give a simple overview of what is going on here, I used the dataset to explore and find more information that should prove usefull to both hosts when they are trying to value their properties and things to keep in mind when doing so, guests when trying to book a listing from Airbnb. 
 
