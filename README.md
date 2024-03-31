@@ -2,7 +2,7 @@
 
 ## Table of content
 * [Overview](#Overview)
-* [Project Motivation](#Project Motivation)
+* [Project Motivation](#Project_Motivation)
 * [Files used](#Files used)
 * [Results](#Results)
 * [Licensing for the data and other descriptive information](#Licensing for the data and other descriptive information)
