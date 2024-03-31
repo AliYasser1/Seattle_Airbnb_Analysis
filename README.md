@@ -8,4 +8,4 @@ Here are some of the questions that came to my mind while exploring the data:
  3. can we predict the price of a property based on the property features (Bedrooms, Bathrooms,...etc)?
 
 ## Table of content
-* [Section 1](#overview)
+* [Overview](#section-1)
