@@ -27,7 +27,6 @@ For this analysis I used two files. The first being an excel sheet that had all 
 
 ## Results
 
-To more about the findings, check my blog post on Medium here.
 To get a glimpse of the code I deeveloped to come up with my finding click [here](https://github.com/AliYasser1/Seattle_Airbnb_Analysis/blob/main/Analysis.ipynb)
 
 ## Licensing, Authors, Acknowledgements
